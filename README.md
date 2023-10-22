@@ -16,10 +16,11 @@ The Advocate Information Web Application is a web platform that allows users to 
 
 ## Tech Stack
 
+- **Languages:** Python, Javascript
 - **Backend:** Django, Django Rest Framework (DRF), Web Scraping, Twitter API
 - **Frontend:** React, Axios for API requests
-- **Database:** (Not mentioned in the provided code, but you'll likely use a database for storing advocate data)
-- **Styling:** CSS (your provided CSS styles)
+- **Database:** sqlite3
+- **Styling:** CSS
 - **Deployment:** The application can be hosted on platforms like Heroku or AWS for public access.
 
 ## Getting Started
